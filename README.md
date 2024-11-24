@@ -12,7 +12,7 @@ AI-Powered Shopping Agent represents a significant leap forward in leveraging co
 
 - [Codelabs Document](https://codelabs-preview.appspot.com/?file_id=1sEMZk_7fCgwTkg0SkPaSVpuQ_CumlnJxboK6RWYE7HA)
 - [v2 Codelabs Document w/ review comments](https://codelabs-preview.appspot.com/?file_id=1wLLV6Rx-qgY6_IvEGjpxUe77wShLZE4jh5iwjVOvZFk)
-- [Video explaining review comments][video/video.mp4]
+- [Video explaining review comments](video/video.mp4)
 - Architecture Diagram:
   
   ![Architecture Diagram](Architecture/Arch_v1.drawio.png)
